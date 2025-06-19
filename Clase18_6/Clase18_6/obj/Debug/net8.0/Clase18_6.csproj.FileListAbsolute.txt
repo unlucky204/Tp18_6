@@ -1,0 +1,14 @@
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.AssemblyInfoInputs.cache
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.AssemblyInfo.cs
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.csproj.CoreCompileInputs.cache
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\bin\Debug\net8.0\Clase18_6.exe
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\bin\Debug\net8.0\Clase18_6.deps.json
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\bin\Debug\net8.0\Clase18_6.runtimeconfig.json
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\bin\Debug\net8.0\Clase18_6.dll
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\bin\Debug\net8.0\Clase18_6.pdb
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.dll
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\refint\Clase18_6.dll
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.pdb
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\Clase18_6.genruntimeconfig.cache
+C:\Users\INFO-2\source\repos\Clase18_6\Clase18_6\obj\Debug\net8.0\ref\Clase18_6.dll
