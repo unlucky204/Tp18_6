@@ -3,8 +3,9 @@
 List<Evento> eventos = new List<Evento>();
 while (true)
 {
-    Console.Clear();
     Menu();
+    Console.ReadKey();
+    Console.Clear();
 }   
  void Menu()
 {
@@ -23,6 +24,7 @@ while (true)
             Console.WriteLine("Seleccione el evento al que desea inscribir un participante:");
             ListarEventos();
             int index = int.Parse(Console.ReadLine());
+            index--;
             AgregarParticipante(eventos[index]);
             break;
         case 3:
@@ -88,7 +90,11 @@ void ListarEventos()
 {
     foreach (var item in eventos)
     {
+        int c=1;
+        Console.WriteLine("------------------");
+        Console.WriteLine($"Evento {c}.");
         item.ObtenerDescripcion();
+        c++;
     }
 }
 
@@ -96,20 +102,25 @@ void BuscarEvento()
 {
     Console.WriteLine("Ingrese el nombre del evento a buscar:");
     string nombre = Console.ReadLine();
+    bool Existe;
     foreach (Evento item in eventos)
     {
+        
         if (nombre == item.nombre)
         {
             item.ObtenerDescripcion();
             foreach (Participante part in item.participantes)
             {
-                part.ObtenerNombreCompleto();
+                int c = 1;
+                Console.WriteLine($"{c}.{part.ObtenerNombreCompleto()}");
+                c++;
             }
-        }
-        else
-        {
-            Console.WriteLine("No se encontró el evento");
+            Existe = true;
         }
     }
-    
+    if (Existe=false)
+    {
+        Console.WriteLine("No se encontró el evento");
+    }
+
 }

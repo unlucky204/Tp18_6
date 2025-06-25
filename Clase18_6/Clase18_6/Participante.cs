@@ -12,7 +12,7 @@ namespace Clase18_6
         public string apellido { get; set; }
         public string ObtenerNombreCompleto()
         { 
-            string NombreCompleto = $"{nombre + apellido}";
+            string NombreCompleto = $"{nombre} {apellido}";
             return NombreCompleto;
         }
     }

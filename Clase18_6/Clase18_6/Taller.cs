@@ -11,8 +11,10 @@ namespace Clase18_6
         public int CapMax { get; set; }
         public override void ObtenerDescripcion()
         {
-            Console.WriteLine($"Taller: {nombre}, Fecha: {fecha}, Ubicación: {ubicacion}, Capacidad Máxima: {CapMax}");
-        }
+             Console.WriteLine($"Conferencia: {nombre}");
+            Console.WriteLine($"Fecha: {fecha}");
+            Console.WriteLine($"Ubicación: {ubicacion}");
+            Console.WriteLine($"Capacidad maxima: {CapMax}");}
         public override void InscribirParticipante(Participante participante)
         {
             if (participantes.Count < CapMax)

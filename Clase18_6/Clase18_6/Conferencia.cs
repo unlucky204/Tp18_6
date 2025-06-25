@@ -11,7 +11,10 @@ namespace Clase18_6
         public string Tema { get; set; }
         public override void ObtenerDescripcion()
         {
-            Console.WriteLine($"Conferencia: {nombre}, Fecha: {fecha}, Ubicación: {ubicacion}, Tema: {Tema}");
+            Console.WriteLine($"Conferencia: {nombre}");
+            Console.WriteLine($"Fecha: {fecha}");
+            Console.WriteLine($"Ubicación: {ubicacion}");
+            Console.WriteLine($"Tema: {Tema}");
         }
     }
 }

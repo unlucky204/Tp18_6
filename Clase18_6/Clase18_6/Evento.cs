@@ -11,6 +11,7 @@ namespace Clase18_6
         public string nombre { get; set; }
         public string fecha { get; set; }
         public string ubicacion { get; set; }
+
         public List<Participante> participantes = new List<Participante>();
         public abstract void ObtenerDescripcion();
 

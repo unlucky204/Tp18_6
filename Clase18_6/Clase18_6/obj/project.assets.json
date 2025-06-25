@@ -8,23 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\INFO-2\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\info-1.INDU\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\INFO-2\\source\\repos\\Clase18_6\\Clase18_6\\Clase18_6.csproj",
+      "projectUniqueName": "C:\\Users\\info-1.INDU\\Desktop\\repos\\Clase18_6\\Clase18_6\\Clase18_6.csproj",
       "projectName": "Clase18_6",
-      "projectPath": "C:\\Users\\INFO-2\\source\\repos\\Clase18_6\\Clase18_6\\Clase18_6.csproj",
-      "packagesPath": "C:\\Users\\INFO-2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\INFO-2\\source\\repos\\Clase18_6\\Clase18_6\\obj\\",
+      "projectPath": "C:\\Users\\info-1.INDU\\Desktop\\repos\\Clase18_6\\Clase18_6\\Clase18_6.csproj",
+      "packagesPath": "C:\\Users\\info-1.INDU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\info-1.INDU\\Desktop\\repos\\Clase18_6\\Clase18_6\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\INFO-2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\info-1.INDU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
